@@ -1,9 +1,6 @@
 - language:
-  idiom: English
-  level: Native
+  idiom: 汉语
+  level: 母语
 - language:
-  idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+  idiom: 英语
+  level: 较好

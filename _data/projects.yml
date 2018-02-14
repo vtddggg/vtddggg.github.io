@@ -1,24 +1,19 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "我将主要介绍一些和我研究方向相关的科研型项目："
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Visual_Tracking_api
+  link: ""
+  tagline: "这是我在Github上分享的关于目标跟踪的开源项目。主要包含当前热门跟踪算法的Python实现和教程。现在这个项目由我一个人在维护和更新。"
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: ATDA
+  link: ""
+  tagline: "我在研究迁移学习期间复现过的论文算法。以视觉域适应问题为主，选择了部分代码进行开源分享。"
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: Label_instructed_cross-domain_image_generation
+  link: ""
+  tagline: "投递Neurocomputing文章的开源实现（没有定期维护,可能有不兼容问题）。"
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: 其他
+  link: ""
+  tagline: "部分项目没有分享出来，例如正在进行的红外目标跟踪的工作，还有早期对GAN算法的一些尝试性改进。"

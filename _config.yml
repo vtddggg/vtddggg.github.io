@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: 毛潇锋
 tagline: 研究生在读
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '我的研究方向是迁移学习（视觉域适应）以及视觉目标跟踪。主要针对某一具体问题 （分类，检测，跟踪等），由某一个数据域的先验解决另一个域上的同类型问题。当 前我致力于红外目标跟踪领域的研究并且正在为年初的计算机视觉顶级会议做准备。 同时我也关注图像合成技术的最新研究进展，包括生成对抗网络（GAN）以及风格迁移。更多细节请访问我的<a href="https://www.zhihu.com/people/mao-xiao-feng-29-7/activities">知乎主页</a>.'
+summary: '我的研究方向是迁移学习（视觉域适应）以及运动目标跟踪。主要针对计算机视觉基本问题 （目标识别，检测，跟踪等），通过迁移学习手段提升不同视觉域上的算法性能。同时我也关注图像生成与转换以及语义图像分析技术的最新研究进展，包括神经风格迁移以及对抗学习（GAN）在图像生成方面的应用。更多细节请访问我的<a href="https://www.zhihu.com/people/mao-xiao-feng-29-7/activities">知乎主页</a>.'
 
 #sidebar links
 email: hzmaoxiaofeng@163.com

@@ -5,7 +5,7 @@
         "Github": {"icon": "fa fa-github", "url": "https://github.com/vtddggg"},
         "Google Scholar": {"icon": "ai ai-google-scholar", "url": "https://scholar.google.com/citations?user=hrb71pwAAAAJ&hl=en"},
         "ORCID": {"icon": "ai ai-orcid", "url": "https://orcid.org/0000-0003-4486-556X"},
-        "CV": {"icon": "fa fa-link", "url": "https://vtddggg.github.io/public/files/pdf.html"},
+        "CV": {"icon": "fa fa-link", "url": "https://vtddggg.github.io/pdfs/maoxiaofeng_cv.pdf"},
         "Email": {"icon": "fa fa-envelope", "url": "mailto:hzmaoxiaofeng@163.com"}
     }
 }

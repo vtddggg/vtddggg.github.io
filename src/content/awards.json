@@ -1,0 +1,15 @@
+[
+    {
+        "category": "Honors", "list": [
+            {"date": "2023.01", "content": "Algorithm Technology Pioneer Award in AAIG"},
+            {"date": "2014.01", "content": "National Scholarship"},
+            {"date": "2013.01", "content": "National Scholarship"}
+        ]
+    },
+    {
+        "category": "Competitions", "list": [
+            {"date": "2022.06", "content": "First Place in 2022 NICO Hybrid Context Generalization Challenge (ECCV 2022 Workshop)"},
+            {"date": "2018.07", "content": "First Place in Fashion-Gen: The Generative Fashion Dataset and Challenge (ECCV 2018 Workshop)"}
+        ]
+    }
+]

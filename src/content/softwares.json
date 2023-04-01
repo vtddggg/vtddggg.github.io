@@ -1,0 +1,20 @@
+[
+    {
+        "category": "Research", "list": [
+            {"name": "EasyRobust", "url": "https://github.com/alibaba/easyrobust", "content": "(216 star) A Comprehensive and Easy-to-use Toolkit for Robust and Generalized Vision."},
+            {"name": "Visual Tracking api", "url": "https://github.com/vtddggg/Visual_Tracking_api", "content": "(91 star) A Simple Python Toolkit for Visual Tracking. "}
+        ]
+    },
+    {
+        "category": "Services", "list": [
+            {"name": "AAAI2022 Workshop", "url": "https://advml-workshop.github.io/aaai2022/", "content": "Organizer for Workshop on Adversarial Machine Learning and Beyond"},
+            {"name": "CVPR2021 Workshop", "url": "https://aisecure-workshop.github.io/amlcvpr2021/", "content": "Organizer for Workshop on Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges (AML-CV)"},
+            {"name": "IJCAI2019 Workshop", "url": "https://security.alibaba.com/alibs2019?spm=5176.12586969.0.0.697b3e95iQ3SNT", "content": "Organizer for 1th Workshop on Artificial Intelligence for Business Security"},
+            {"name": "(Phase I) Security AI Challenger", "url": "https://tianchi.aliyun.com/competition/entrance/231745/introduction?spm=security_portal.13763911.0.0.1b62rG4FrG4FCm", "content": "Organizer for Adversarial Attacks on Face Recognition Competition"},
+            {"name": "(Phase II) Security AI Challenger", "url": "https://tianchi.aliyun.com/competition/entrance/231761/introduction?spm=security_portal.13763911.0.0.1b62rG4FrG4FCm", "content": "Organizer for Adversarial Attacks on ImageNet Classification Competition"},
+            {"name": "(Phase IV) Security AI Challenger", "url": "https://tianchi.aliyun.com/competition/entrance/531806/introduction?spm=security_portal.13763911.0.0.1b62rG4FrG4FCm", "content": "Organizer for Adversarial Attacks on Object Detection Competition"},
+            {"name": "(Phase VI) Security AI Challenger", "url": "https://tianchi.aliyun.com/competition/entrance/531847/introduction?spm=security_portal.13763911.0.0.1b62rG4FrG4FCm", "content": "Organizer for White-Box Adversarial Attacks of Defense Model && Unrestricted Adversarial Attacks on ImageNet Classification Competition"},
+            {"name": "(Phase VIII) Security AI Challenger", "url": "https://tianchi.aliyun.com/competition/entrance/531939/introduction?spm=security_portal.13763911.0.0.1b62rG4FrG4FCm", "content": "Organizer for Data-Centric Robust Learning on ML Models Competition"}
+        ]
+    }
+]

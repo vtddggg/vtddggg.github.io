@@ -1,0 +1,198 @@
+[
+    
+    {
+        "bibtex": "@inproceedings{mao2022enhance, \n title={Enhance the Visual Representation via Discrete Adversarial Training}, \n author={Xiaofeng Mao and Yuefeng Chen and Ranjie Duan and Yao Zhu and Gege Qi and Shaokai Ye and Xiaodan Li and Rong Zhang and Hui Xue}, \n booktitle={Advances in Neural Information Processing Systems}, \n year={2022} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Yao Zhu"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Qin2022FeatureFB, \n title={Feature Fusion Based Adversarial Example Detection against Second-Round Adversarial Attacks}, \n author={Chuan Qin and Yuefeng Chen and Kejiang Chen and Xiaoyi Dong and Weiming Zhang and Xiaofeng Mao and Yuan He and Nenghai Yu}, \n journal={IEEE Transactions on Artificial Intelligence}, \n year={2022} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Nenghai Yu"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Mao2021TowardsRV, \n title={Towards Robust Vision Transformer}, \n author={Xiaofeng Mao and Gege Qi and Yuefeng Chen and Xiaodan Li and Ranjie Duan and Shaokai Ye and Yuan He and Hui Xue}, \n journal={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, \n year={2021}, \n pages={12032-12041} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Xiaofeng Mao"],
+            "equalContributionAuthors": null
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": "https://github.com/vtddggg/Robust-Vision-Transformer",
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Duan2021AdversarialLB, \n title={Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink}, \n author={Ranjie Duan and Xiaofeng Mao and Alex K. Qin and Yun Yang and Yuefeng Chen and Shaokai Ye and Yuan He}, \n journal={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, \n year={2021}, \n pages={16057-16066} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Alex K. Qin"],
+            "equalContributionAuthors": null
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": "https://github.com/RjDuan/Advlight",
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@inproceedings{DBLP:conf/aaai/MaoCWSHX21, \n author    = {Xiaofeng Mao and Yuefeng Chen and Shuhui Wang and Hang Su and Yuan He and Hui Xue}, \n title     = {Composite Adversarial Attacks}, \n booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Virtual Event, February 2-9, 2021}, \n pages     = {8884--8892}, \n publisher = {{AAAI} Press}, \n year      = {2021} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Shuhui Wang"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": "https://github.com/vtddggg/CAA",
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Dong2021FineGrainedFS, \n title={Fine-Grained Fashion Similarity Prediction by Attribute-Specific Embedding Learning}, \n author={Jianfeng Dong and Zhe Ma and Xiaofeng Mao and Xun Yang and Yuan He and Richang Hong and Shouling Ji}, \n journal={IEEE Transactions on Image Processing}, \n year={2021}, \n volume={30}, \n pages={8410-8425} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Shouling Ji"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Dong2021MultilevelAN, \n title={Multi-level Alignment Network for Domain Adaptive Cross-modal Retrieval}, \n author={Jianfeng Dong and Zhongzi Long and Xiaofeng Mao and Changting Lin and Yuan He and Shouling Ji}, \n journal={Neurocomputing}, \n year={2021}, \n volume={440}, \n pages={207-219} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Shouling Ji"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Mao2019LearningTC, \n title={Learning to Characterize Adversarial Subspaces}, \n author={Xiaofeng Mao and YueFeng Chen and Yuhong Li and Yuan He and Hui Xue}, \n journal={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2019}, \n pages={2438-2442} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Xiaofeng Mao"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Chen2021AdversarialED, \n title={Adversarial Examples Detection Beyond Image Space}, \n author={Kejiang Chen and Yuefeng Chen and Hang Zhou and Chuan Qin and Xiaofeng Mao and Weiming Zhang and Nenghai Yu}, \n journal={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2021}, \n pages={3850-3854} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Nenghai Yu"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Li2020SharpMI, \n title={Sharp Multiple Instance Learning for DeepFake Video Detection}, \n author={Xiaodan Li and Yining Lang and YueFeng Chen and Xiaofeng Mao and Yuan He and Shuhui Wang and Hui Xue and Quan Lu}, \n journal={Proceedings of the 28th ACM International Conference on Multimedia}, \n year={2020} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Xiaodan Li"],
+            "equalContributionAuthors": null
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Mao2019BilinearRF, \n title={Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks}, \n author={Xiaofeng Mao and YueFeng Chen and Yuhong Li and Tao Xiong and Yuan He and Hui Xue}, \n journal={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2019}, \n pages={2047-2051} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Xiaofeng Mao"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": "https://github.com/vtddggg/BilinearGAN_for_LBIE",
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Chen2019SelfSupervisedAT, \n title={Self-Supervised Adversarial Training}, \n author={Kejiang Chen and Hang Zhou and YueFeng Chen and Xiaofeng Mao and Yuhong Li and Yuan He and Hui Xue and Weiming Zhang and Nenghai Yu}, \n journal={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2019}, \n pages={2218-2222} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Nenghai Yu"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@article{Mao2018SemanticIC, \n title={Semantic invariant cross-domain image generation with generative adversarial networks}, \n author={Xiaofeng Mao and Shuhui Wang and Liying Zheng and Qingming Huang}, \n journal={Neurocomputing}, \n year={2018}, \n volume={293}, \n pages={55-63} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Qingming Huang"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    }
+]

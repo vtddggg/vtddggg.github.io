@@ -1,7 +1,5 @@
 [
-    {"date": "2023.3.08", "content": "(First Author) Paper submitted to ICCV2023, under review!"},
-    {"date": "2023.2.17", "content": "(Cooperative) Paper [TransAudio: Towards the Transferable Adversarial Audio Attack via Learning Contextualized Perturbations](https://arxiv.org/abs/2303.15940) was accepted by ICASSP 2023!"},
-    {"date": "2022.12.16", "content": "(First Author) Paper submitted to IJCV Special Issue on Robust Vision, under review!"},
-    {"date": "2022.9.01", "content": "Our Research Project [EasyRobust](https://github.com/alibaba/easyrobust) has been released. Got 29 Forks and 216 Stars!"},
+    {"date": "2023.8.01", "content": "(First Author) Paper [COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts](https://arxiv.org/abs/2307.12730) was accepted by ICCV 2023!!"},
+    {"date": "2023.7.01", "content": "Our Research Project [EasyRobust](https://github.com/alibaba/easyrobust) wins the 2023 IEEE Open Source Science Awards!!"},
     {"date": "2022.7.30", "content": "(First Author) Paper [Enhance the Visual Representation via Discrete Adversarial Training](https://arxiv.org/abs/2209.07735) was accepted by NeurIPS 2022!"}
 ]

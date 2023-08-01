@@ -1,7 +1,51 @@
 [
-    
     {
-        "bibtex": "@inproceedings{mao2022enhance, \n title={Enhance the Visual Representation via Discrete Adversarial Training}, \n author={Xiaofeng Mao and Yuefeng Chen and Ranjie Duan and Yao Zhu and Gege Qi and Shaokai Ye and Xiaodan Li and Rong Zhang and Hui Xue}, \n booktitle={Advances in Neural Information Processing Systems}, \n year={2022} \n }",
+        "bibtex": "@inproceedings{mao2023coco, \n title={COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts}, \n author={Xiaofeng Mao and Yuefeng Chen and Yao Zhu and Da Chen and Hang Su and Rong Zhang and Hui Xue}, \n booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}, \n year={2023} \n }",
+        "authors": {
+            "boldAuthors": ["Xiaofeng Mao"],
+            "correspondingAuthors": ["Xiaofeng Mao"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@inproceedings{qi2023wapat, \n title={Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training}, \n author={Gege Qi and Yuefeng Chen and Xiaofeng Mao and Xiaojun Jia and Ranjie Duan and Rong Zhang and Hui Xue}, \n booktitle={Conference of the International Speech Communication Association (INTERSPEECH)}, \n year={2023} \n }",
+        "authors": {
+            "boldAuthors": ["Gege Qi"],
+            "correspondingAuthors": ["Gege Qi"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@inproceedings{qi2023transaudio, \n title={TransAudio: Towards the Transferable Adversarial Audio Attack via Learning Contextualized Perturbations}, \n author={Gege Qi and YueFeng Chen and Yao Zhu and Binyuan Hui and Xiaodan Li and Xiaofeng Mao and Rong Zhang and Hui Xue}, \n booktitle={ICASSP 2022-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2023} \n }",
+        "authors": {
+            "boldAuthors": ["Gege Qi"],
+            "correspondingAuthors": ["Gege Qi"],
+            "equalContributionAuthors": []
+        },
+        "note": "",
+        "resources": {
+            "slides": null,
+            "video": null,
+            "code": null,
+            "demo": null
+        }
+    },
+    {
+        "bibtex": "@inproceedings{mao2022enhance, \n title={Enhance the Visual Representation via Discrete Adversarial Training}, \n author={Xiaofeng Mao and Yuefeng Chen and Ranjie Duan and Yao Zhu and Gege Qi and Shaokai Ye and Xiaodan Li and Rong Zhang and Hui Xue}, \n booktitle={Advances in Neural Information Processing Systems (NeurIPS)}, \n year={2022} \n }",
         "authors": {
             "boldAuthors": ["Xiaofeng Mao"],
             "correspondingAuthors": ["Yao Zhu"],

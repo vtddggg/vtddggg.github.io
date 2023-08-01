@@ -17,7 +17,7 @@
     {
         "bibtex": "@inproceedings{qi2023wapat, \n title={Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training}, \n author={Gege Qi and Yuefeng Chen and Xiaofeng Mao and Xiaojun Jia and Ranjie Duan and Rong Zhang and Hui Xue}, \n booktitle={Conference of the International Speech Communication Association (INTERSPEECH)}, \n year={2023} \n }",
         "authors": {
-            "boldAuthors": ["Gege Qi"],
+            "boldAuthors": ["Xiaofeng Mao"],
             "correspondingAuthors": ["Gege Qi"],
             "equalContributionAuthors": []
         },
@@ -32,7 +32,7 @@
     {
         "bibtex": "@inproceedings{qi2023transaudio, \n title={TransAudio: Towards the Transferable Adversarial Audio Attack via Learning Contextualized Perturbations}, \n author={Gege Qi and YueFeng Chen and Yao Zhu and Binyuan Hui and Xiaodan Li and Xiaofeng Mao and Rong Zhang and Hui Xue}, \n booktitle={ICASSP 2022-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, \n year={2023} \n }",
         "authors": {
-            "boldAuthors": ["Gege Qi"],
+            "boldAuthors": ["Xiaofeng Mao"],
             "correspondingAuthors": ["Gege Qi"],
             "equalContributionAuthors": []
         },
